@@ -1,1 +1,1 @@
-#Main File
+#Main File of the Semantic Bool Recommender System applying my skills of Skills of LLMs ans Semantics and Natural Language Processing
