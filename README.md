@@ -6,6 +6,6 @@ LLM Bases Book Recommender System
 - Gradio
 - LangChain-Chroma
 - LangChain(openai)
-- Transformers
+- Transformers (Hugging Face)
 - MatplotLib
-- 
+- Sea Born
