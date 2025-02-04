@@ -9,3 +9,10 @@ LLM Bases Book Recommender System
 - Transformers (Hugging Face)
 - MatplotLib
 - Sea Born
+# Data Exploration
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+
