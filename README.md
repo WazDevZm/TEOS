@@ -7,4 +7,5 @@ LLM Bases Book Recommender System
 - LangChain-Chroma
 - LangChain(openai)
 - Transformers
+- MatplotLib
 - 
